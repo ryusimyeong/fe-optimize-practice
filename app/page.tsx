@@ -49,10 +49,10 @@ export default function Home() {
           </a>
         </div>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <img src="/1.jpeg" alt="test image" />
-          <img src="/2.jpeg" alt="test image" />
-          <img src="/3.jpeg" alt="test image" />
-          <img src="/4.jpeg" alt="test image" />
+          <img src="/public/img/1.jpeg" alt="test image" />
+          <img src="/public/img/2.jpeg" alt="test image" />
+          <img src="/public/img/3.jpeg" alt="test image" />
+          <img src="/public/img/4.jpeg" alt="test image" />
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
