@@ -48,11 +48,11 @@ export default function Home() {
             Read our docs
           </a>
         </div>
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <img src="/img/1.jpeg" alt="test image" />
-          <img src="/img/2.jpeg" alt="test image" />
-          <img src="/img/3.jpeg" alt="test image" />
-          <img src="/img/4.jpeg" alt="test image" />
+        <div className="w-full flex gap-4 items-center flex-col">
+          <img className="w-56 h-56" src="/img/1.jpeg" alt="test image" />
+          <img className="w-56 h-56" src="/img/2.jpeg" alt="test image" />
+          <img className="w-56 h-56" src="/img/3.jpeg" alt="test image" />
+          <img className="w-56 h-56" src="/img/4.jpeg" alt="test image" />
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
