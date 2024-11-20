@@ -31,3 +31,13 @@
 - Repository secret과 환경변수:
 
 ### 성능 최적화 보고서
+
+#### CDN 연결 전(S3 버킷 웹사이트 엔드포인트로 접근)
+
+<img width="698" alt="스크린샷 2024-11-20 14 48 07" src="https://github.com/user-attachments/assets/f8932d45-b14c-472f-97b7-3228ff115315">
+
+#### CDN 연결 후(CloudFrount 배포 도메인으로 접근)
+
+<img width="695" alt="스크린샷 2024-11-20 14 48 14" src="https://github.com/user-attachments/assets/73061673-4b74-4c92-ac5d-0c246e624c40">
+
+- CDN을 통해 캐싱된 소스코드를 가져오기 때문에 HTML 및 이미지 파일 다운로드가 매우 빨라진 것을 확인할 수 있다.
