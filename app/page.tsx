@@ -49,10 +49,18 @@ export default function Home() {
           </a>
         </div>
         <div className="w-full flex gap-4 items-center flex-col">
-          <img className="w-56 h-56" src="/img/1.jpeg" alt="test image" />
-          <img className="w-56 h-56" src="/img/2.jpeg" alt="test image" />
-          <img className="w-56 h-56" src="/img/3.jpeg" alt="test image" />
-          <img className="w-56 h-56" src="/img/4.jpeg" alt="test image" />
+          <img
+            src="https://i.namu.wiki/i/gqzVcYLB42L9gdftNCNPwQPh17OQxw7inWXY4jzkxCWc6msjVaPjkC-KYX4eQ90l6h0hsdlFxb27JMOBrqBDPFDFFV5f5Dt3ikr2icOWBRtH5YjE0UZqNc-pTTBS8dkYkaeYbZ8eJU3IqMhMJ1GR0w.webp"
+            alt="test image"
+          />
+          <img
+            src="https://wallpapers.com/images/high/oasis-noel-gallagher-q46ps68j1fs8t5p0.webp"
+            alt="test image"
+          />
+          <img
+            src="https://preview.redd.it/i-created-a-wallpaper-for-definitely-maybe-9-20-1289-2865-v0-pwbm2jt6zwrb1.jpg?auto=webp&s=4762e25d3d7c3ca440749a827896f802896b09ed"
+            alt="test image"
+          />
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
