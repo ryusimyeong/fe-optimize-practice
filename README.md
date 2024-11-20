@@ -24,8 +24,10 @@
 
 ### 주요 개념
 
-- GitHub Actions과 CI/CD 도구: ****\_****
-- S3와 스토리지: ****\_****
-- CloudFront와 CDN: ****\_****
-- 캐시 무효화(Cache Invalidation): ****\_****
-- Repository secret과 환경변수: ****\_****
+- GitHub Actions과 CI/CD 도구:
+- S3와 스토리지:
+- CloudFront와 CDN:
+- 캐시 무효화(Cache Invalidation):
+- Repository secret과 환경변수:
+
+### 성능 최적화 보고서
